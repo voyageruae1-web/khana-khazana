@@ -1,0 +1,8 @@
+﻿git : fatal: your current branch 'master' does not have any commits yet
+At line:13 char:1
++ git log -10 --oneline 2>&1 |
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (fatal: your cur...any commits yet:S 
+   tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

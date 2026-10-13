@@ -1,0 +1,11 @@
+﻿
+RelativePath            Length
+------------            ------
+backend\.env.example        20
+backend\package.json       557
+frontend\package.json      664
+frontend\README.md        1027
+frontend\vite.config.js    161
+
+
+
